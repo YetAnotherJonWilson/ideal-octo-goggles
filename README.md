@@ -3,8 +3,8 @@
 ## Getting Started
 
 ```sh
-git clone https://github.com/YetAnotherJonWilson/atproto-trkr.git
-cd atproto-trkr
+git clone https://github.com/YetAnotherJonWilson/ideal-octo-goggles.git
+cd ideal-octo-goggles
 cp .env.template .env
 npm install
 npm run dev
